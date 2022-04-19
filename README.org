@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 12
 
-* Last name:
+* Last name: Sidrat  
 
-* First name:
+* First name: Habib
 
-* GitHub username:
+* GitHub username: sidrathabib
 
 * Notes:
 
